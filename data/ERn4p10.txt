@@ -1,0 +1,22 @@
+ER Model
+Parameters:
+- p:0.3
+
+ Size : 19
+ Size of core : 10
+ % of P2P links : 0,33
+ % of nodes in level 1 : 15,79
+ % of nodes in level 2 : 36,84
+ % of nodes in level 3 : 47,37
+ % of nodes in level 4 : 0
+ % of nodes in level 5 : 0
+ Degree of level 1 : 9,33
+ Degree of level 2 : 7,43
+ Degree of level 3 : 4,89
+ Degree of level 4 : 0
+ Degree of level 5 : 0
+
+1 (2)  [4]
+2 (2)  [3]
+3 (2)  [2, 4]
+4 (2)  [3, 1]
